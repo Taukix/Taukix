@@ -2,7 +2,7 @@
 
 ## À propos de Moi 🌅
 Je suis Tommy BOISSEAU, passionné par le monde du développement d'applications Web !
-J'aime mettre mes compétences à l'épreuve dans des projets réels et j'aime apprendre de nouvelles technologies !
+Mettre mes compétences à l'épreuve dans des projets réels et apprendre de nouvelles technologies sont deux points que j'affectionne particulièrement !
 
 - 🎓 Actuellement en Troisème année de BUT Informatique à [l'IUT du Limousin](https://www.iut.unilim.fr/).
 - 👀 Je suis à la recherche d'un emploi à partir du mois de septembre 2024.
