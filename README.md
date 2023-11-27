@@ -12,7 +12,7 @@ J'aime mettre mes compétences à l'épreuve dans des projets réels et j'aime a
 
 ---
 
-## Compétences Techniques 🛠️
+## Écosystème Technologique 🛠️
 
 - **Langages de Programmation**:
   ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
@@ -43,5 +43,72 @@ J'aime mettre mes compétences à l'épreuve dans des projets réels et j'aime a
 - **Databases & ORM**:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+- **Outils et Technologies**:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white),
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white),
+  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white),
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white),
+  ![DockerSwarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white),
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white),
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white),
+  ![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat&logo=sonarlint&logoColor=white)
+
+---
+
+## Compétences Acquises 📚
+
+Au cours de mon BUT Informatique, j'ai acquéri de nombreuses compétences différentes :
+
+- **Réaliser un développement d'application**
+
+- **Optimiser des applications informatiques**
+
+- **Administrer des systèmes informatiques communicants**
+
+- **Gérer des données de l’information**
+
+- **Conduire un projet**
+
+- **Travailler dans une équipe informatique**
+
+- **Usages des outils numériques**
+
+- **Expression et communication écrites et orales**
+
+---
+
+## Projets ⚙️
+
+Tous les projets répertioriés ci-dessous correspondent à ces compétences. D'autres projets personnels sont également disponibles.
+
+- **WEB**
+  - **[Psychologie](https://github.com/Taukix/Psychologie)** 🧑🏻‍⚕️ - **[SKShare](https://github.com/Taukix/SKShare)** 👟 - **[Todo-List](https://github.com/Taukix/Todo-List)** 📆
+
+- **MOBILE**
+  - **[Emploi-Du-Temps](https://github.com/Taukix/Emploi-Du-Temps)** 🗓️ - **[Truckers](https://github.com/Taukix/Truckers)** 🚛
+
+- **BASE DE DONNEES**
+  - **[Cassandra-Mongo](https://github.com/Taukix/Cassandra-Mongo)** 💿
+
+- **JAVA**
+  - **[Latice](https://github.com/Taukix/Latice)** 🀄️
+ 
+---
+
+## Compétences interpersonnelles 🗣️
+
+- **Communication efficace :** Capacité à communiquer clairement et efficacement.
+- **Esprit d'équipe :** Habitué à travailler avec de nombreuses personnes dans une équipe.
+- **Adaptabilité :** Capable de s'adapter rapidement aux changements, d'apprendre de nouvelles compétences.
+- **Anglais :** Capacité à communiquer en anglais si la langue de travail n'est pas initialement commune.
+
+---
+
+## Me contacter 📮
+
+- **Email :** tommy.boisseau.contact@gmail.com
+- **LinkedIn :** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tommy-boisseau)
