@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github 👋
 
-## 🌅 À propos de Moi
+## À propos de Moi 🌅
 Je suis Tommy BOISSEAU, passionné par le monde du développement d'applications Web !
 J'aime mettre mes compétences à l'épreuve dans des projets réels et j'aime apprendre de nouvelles technologies !
 
