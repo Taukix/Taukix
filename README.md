@@ -86,7 +86,7 @@ Au cours de mon BUT Informatique, j'ai acquéri de nombreuses compétences diff�
 Tous les projets répertioriés ci-dessous correspondent à ces compétences. D'autres projets personnels sont également disponibles.
 
 - **WEB**
-  - **[Psychologie](https://github.com/Taukix/Psychologie)** 🧑🏻‍⚕️ - **[SKShare](https://github.com/Taukix/SKShare)** 👟 - **[Todo-List](https://github.com/Taukix/Todo-List)** 📆
+  - **[Psychologie](https://github.com/Taukix/Psychology)** 🧑🏻‍⚕️ - **[SKShare](https://github.com/Taukix/SKShare)** 👟 - **[Todo-List](https://github.com/Taukix/Todo-List)** 📆
 
 - **MOBILE**
   - **[Emploi-Du-Temps](https://github.com/Taukix/Emploi-Du-Temps)** 🗓️ - **[Truckers](https://github.com/Taukix/Truckers)** 🚛
