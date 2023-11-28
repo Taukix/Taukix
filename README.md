@@ -47,14 +47,14 @@ Mettre mes compétences à l'épreuve dans des projets réels et apprendre de no
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 - **Outils et Technologies**:
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white),
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white),
-  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white),
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white),
-  ![DockerSwarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white),
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white),
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),
-  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white),
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![DockerSwarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
   ![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat&logo=sonarlint&logoColor=white)
 
 ---
