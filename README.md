@@ -6,7 +6,7 @@ Mettre mes compétences à l'épreuve dans des projets réels et apprendre de no
 
 - 🎓 Actuellement en Troisème année de BUT Informatique à [l'IUT du Limousin](https://www.iut.unilim.fr/).
 - 👀 Je suis à la recherche d'un emploi à partir du mois de septembre 2024.
-- 🧠 Je travaille actuellement sur mon site en React.
+- 🧠 Je travaille actuellement en alternance à Fautras.
 - 🧑🏻‍💻 J'approfondis actuellement mes connaissances en [Kotlin](https://kotlinlang.org/), notamment avec un projet appelé **[Truckers](https://github.com/Taukix/Truckers)**
 - 🧑🏻‍💼 Toutes propositions de projets, collaborations ou conseils sont appréciés.
 
