@@ -5,9 +5,8 @@ Je suis Tommy BOISSEAU, passionné par le monde du développement d'applications
 Mettre mes compétences à l'épreuve dans des projets réels et apprendre de nouvelles technologies sont deux points que j'affectionne particulièrement !
 
 - 🎓 Diplômé d'un BUT Informatique à [l'IUT du Limousin](https://www.iut.unilim.fr/).
-- 👀 Je suis à la recherche d'un emploi à partir du mois de décembre 2024.
-- 🧠 Je travaille actuellement en alternance à Fautras.
-- 🧑🏻‍💻 J'approfondis actuellement mes connaissances en [Kotlin](https://kotlinlang.org/), notamment avec un projet appelé **[Truckers](https://github.com/Taukix/Truckers)**
+- 👀 Je suis à la recherche d'un emploi à partir du mois de Mai 2025.
+- 🧠 Je travaille actuellement en CDD à Fautras.
 - 🧑🏻‍💼 Toutes propositions de projets, collaborations ou conseils sont appréciés.
 
 ---
